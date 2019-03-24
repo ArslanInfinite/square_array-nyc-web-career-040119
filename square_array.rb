@@ -5,4 +5,4 @@ def square_array(array)
 end
 
 numbers = [1, 2, 3]
-square_array(my_arr) #=> [1, 4]
+square_array(numbers)
